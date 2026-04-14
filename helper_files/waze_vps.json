@@ -297,7 +297,7 @@
     },
     {
         "name": "Ross",
-        "language": "Enlgish",
+        "language": "English",
         "uuid": "8d6918c9-0679-4caf-8f39-7e3cd3757d7f",
         "notes": "Australian Accent"
     },
@@ -550,10 +550,11 @@
     },{
         "name": "Cortana (Microsoft Windows Eva Mobile)",
         "language": "English",
-        "uuid": "d1c9e5b8-7a0c-4f1b-9c3e-2a1f8e5b6c3d",
-        "author": "SlimyCat-yt",
+        "uuid": "a576da62-bcb4-4326-8599-c30771d698f1",
+        "mp3_files_additional_note": " Non Commercial Use Only",
+        "author": "SlimyCat",
         "author_link": "https://github.com/SlimyCat-yt",
-        "notes":"used enable-microsoft-eva-tts-master & Cortana-OpenTX-voice-master at 2 ticks faster to generate wav files, then converted to mp3 with ffmpeg"
+        "notes":"with [enable-microsoft-eva-tts-master](https://github.com/watermarkhu/enable-microsoft-eva-tts) & [Cortana-OpenTX-voice-master](https://github.com/Dany-Boy55/Cortana-OpenTX-voice)"
     },
     {
         "name": "Country Boy",
@@ -851,11 +852,13 @@
         "author_link": "https://github.com/pipeeeeees/waze-voicepack-links/issues/33"
     },
     {
-        "name": "SCP=079",
+        "name": "SCP-079",
         "language": "English",
         "uuid": "9e64b00c-bbb2-4609-b2b7-837c0e871a17",
-        "author": "Boomstick",
-        "author_link": "https://steamcommunity.com/id/solarpowered141/"
+        "author": "Boomstick (Audio)",
+        "author_link": "https://steamcommunity.com/id/solarpowered141/",
+        "author_2": "jade152",
+        "author_2_link": "https://github.com/jade152"
     },
     {
         "name": "Seshomaru(esp Lat)",

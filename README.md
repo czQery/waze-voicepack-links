@@ -95,7 +95,7 @@ This list contains current and former contracted celebrities and voice actors wh
 | Randy | [Link](https://waze.com/ul?acvp=1ce7c9b0-a1ba-496e-8933-9a1ff8dadff1) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/1ce7c9b0-a1ba-496e-8933-9a1ff8dadff1.tar.gz) |  |
 | Rob Gronkowski | [Link](https://waze.com/ul?acvp=82E7E1A4-9164-418C-BE1F-C6D7F1070150) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/82E7E1A4-9164-418C-BE1F-C6D7F1070150.tar.gz) | Missing U-Turn |
 | Roberts Lejameihers | [Link](https://waze.com/ul?acvp=0091c532-7974-4dc2-b500-5a11b0f29b5c) | Latvian | [mp3 files](https://voice-prompts-ipv6.waze.com/0091c532-7974-4dc2-b500-5a11b0f29b5c.tar.gz) |  |
-| Ross | [Link](https://waze.com/ul?acvp=8d6918c9-0679-4caf-8f39-7e3cd3757d7f) | Enlgish | [mp3 files](https://voice-prompts-ipv6.waze.com/8d6918c9-0679-4caf-8f39-7e3cd3757d7f.tar.gz) | Australian Accent |
+| Ross | [Link](https://waze.com/ul?acvp=8d6918c9-0679-4caf-8f39-7e3cd3757d7f) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/8d6918c9-0679-4caf-8f39-7e3cd3757d7f.tar.gz) | Australian Accent |
 | Safe Mode Kids | [Link](https://waze.com/ul?acvp=beca7b55-329c-4cb5-b067-101758a46984) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/beca7b55-329c-4cb5-b067-101758a46984.tar.gz) |  |
 | Santa (A) | [Link](https://waze.com/ul?acvp=209f7cc6-7126-4971-9956-7aad044cf364) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/209f7cc6-7126-4971-9956-7aad044cf364.tar.gz) |  |
 | Santa (B) | [Link](https://waze.com/ul?acvp=a78efd01-15a3-4b84-b18c-1799c8ee7768) | English | [mp3 files](https://voice-prompts-ipv6.waze.com/a78efd01-15a3-4b84-b18c-1799c8ee7768.tar.gz) |  |

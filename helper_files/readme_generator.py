@@ -51,18 +51,26 @@ def generate_community_voicepacks_markdown_table(waze_vps_json) -> str:
         # if the vp has the "author" field, include it in the notes
         author = vp.get("author", "")
         author_link = vp.get("author_link", "")
+        author_2 = vp.get("author_2", "")
+        author_2_link = vp.get("author_2_link", "")
+        mp3_files_additional_note = vp.get("mp3_files_additional_note", "")
         json_notes = vp.get("notes", "")
         if author:
             if author_link:
                 notes = f"By [{author}]({author_link})"
             else:
                 notes = f"By {author}"
+            if author_2_link:
+                notes += f" and [{author_2}]({author_2_link})"
+            elif author_2:
+                notes += f" and {author_2}"
         else:
             notes = ""
+        
         if json_notes:
             notes += f" {json_notes}"
 
-        markdown_table += f"| {name} | [Link]({share_link}) | {language} | [mp3 files]({files_link}) | {notes} |\n"
+        markdown_table += f"| {name} | [Link]({share_link}) | {language} | [mp3 files{mp3_files_additional_note}]({files_link}) | {notes} |\n"
     
     return markdown_table
 
